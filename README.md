@@ -27,14 +27,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student passionate about Artificial Intelligence and building practical AI-powered applications. My interests include Generative AI, LLM engineering, intelligent knowledge retrieval, and agentic systems.
+I'm a Computer Science student at **COMSATS University Islamabad**, passionate about Artificial Intelligence and building practical AI-powered applications. My interests include Generative AI, LLM engineering, intelligent knowledge retrieval, and agentic systems.
 
-- 🎓 Studying Computer Science at COMSATS University Islamabad, Wah Campus.
+- 🎓 Computer Science student at COMSATS University Islamabad.
 - 🤖 Exploring Generative AI, Large Language Models, and Agentic AI.
 - 🧠 Practicing LLM fine-tuning with LoRA and parameter-efficient techniques.
 - 🔎 Interested in RAG pipelines, semantic search, and vector databases.
 - ☎️ Developed an AI-Powered Hybrid IVR Survey System during my PTCL internship.
-- 🐳 Learning Docker, API development, cloud deployment, and MLOps.
+- 🐳 Exploring Docker, API development, cloud deployment, and MLOps.
 - 🚀 Focused on building practical AI solutions for real-world problems.
 
 ---
@@ -109,14 +109,17 @@ I'm a Computer Science student passionate about Artificial Intelligence and buil
 An enterprise-focused knowledge assistant designed to help users access information from organizational documents and departmental knowledge bases.
 
 - 📚 Knowledge retrieval from departmental and policy documents.
-- 🔎 Exploring semantic search and vector-based retrieval.
+- 🔎 Semantic search and vector-based retrieval.
 - 🤖 LLM-powered question answering over organizational knowledge.
 - 🧩 Focused on making enterprise information easier to discover.
 
 **Key Areas:** RAG · LLMs · Document Retrieval · Vector Databases
 
-<!-- Replace this link with the actual Enterprise Knowledge Hub repository URL. -->
-[View Project Repository](https://github.com/Riyan-Farooq)
+<p>
+  <a href="https://github.com/Riyan-Farooq/Enterprise-Knowledge-Hub">
+    <img src="https://img.shields.io/badge/View%20Project-Enterprise%20Knowledge%20Hub-6C63FF?style=for-the-badge&logo=github" alt="Enterprise Knowledge Hub Repository" />
+  </a>
+</p>
 
 ### ☎️ 2. AI-Powered Hybrid IVR Survey System
 
@@ -130,8 +133,11 @@ An AI-powered voice survey system developed during my PTCL internship, combining
 
 **Key Areas:** Python · FreeSWITCH · Speech Recognition · NLP · LLMs
 
-<!-- Replace this link with the actual IVR project repository URL. -->
-[View Project Repository](https://github.com/Riyan-Farooq)
+<p>
+  <a href="https://github.com/Riyan-Farooq/Hybrid-IVR-Voice-Survey">
+    <img src="https://img.shields.io/badge/View%20Project-AI%20Hybrid%20IVR-0A66C2?style=for-the-badge&logo=github" alt="AI-Powered Hybrid IVR Repository" />
+  </a>
+</p>
 
 ---
 
